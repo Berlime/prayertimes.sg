@@ -77,9 +77,31 @@
         "Asar": "4:15",
         "Maghrib": "6:53",
         "Isyak": "8:06"
+      },
+      {
+        "_id": 327,
+        "Date": "2025-11-23",
+        "Day": "Sunday",
+        "Subuh": "5:28",
+        "Syuruk": "6:50",
+        "Zohor": "12:52",
+        "Asar": "4:15",
+        "Maghrib": "6:53",
+        "Isyak": "8:06"
+      },
+      {
+        "_id": 328,
+        "Date": "2025-11-24",
+        "Day": "Monday",
+        "Subuh": "5:28",
+        "Syuruk": "6:50",
+        "Zohor": "12:53",
+        "Asar": "4:16",
+        "Maghrib": "6:53",
+        "Isyak": "8:07"
       }
     ]
   },
-  "last_updated": "2025-11-22T14:38:35+00:00",
-  "last_fetched_date": "2025-11-22"
+  "last_updated": "2025-11-24T00:00:13+00:00",
+  "last_fetched_date": "2025-11-24"
 }
